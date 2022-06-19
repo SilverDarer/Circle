@@ -1,0 +1,4 @@
+import turtle
+
+c = turtle.Turtle()
+c.circle(120)
